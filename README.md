@@ -85,24 +85,15 @@
 
 ## 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://github.com/DishaBhagat20" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="45" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/disha-bhagat-a6821334a/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
-  </a>
-
-  <a href="mailto:dishabhagat.786@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
-  </a>
-</p>
-
-📧 **Email:** (mailto:dishabhagat.786@gmail.com)
-
-💼 **LinkedIn:** (https://www.linkedin.com/in/disha-bhagat-a6821334a/)
-
+<a href="https://github.com/DishaBhagat20">
+  <img src="https://skillicons.dev/icons?i=github" width="60"/>
+</a>
+<a href="https://www.linkedin.com/in/disha-bhagat-a6821334a/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
+</a>
+<a href="mailto:dishabhagat.786@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="60"/>
+</a>
 ---
 
 ## 💡 Quote
