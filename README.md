@@ -99,9 +99,9 @@
   </a>
 </p>
 
-📧 **Email:** [dishabhagat.786@gmail.com](mailto:dishabhagat.786@gmail.com)
+📧 **Email:** (mailto:dishabhagat.786@gmail.com)
 
-💼 **LinkedIn:** [Disha Bhagat](https://www.linkedin.com/in/disha-bhagat-a6821334a/)
+💼 **LinkedIn:** (https://www.linkedin.com/in/disha-bhagat-a6821334a/)
 
 ---
 
