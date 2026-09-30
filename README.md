@@ -10,25 +10,25 @@
 
 ## 👩‍💻 About Me
 
-- 🌱 Currently learning **Cloud Computing**
-- ☁️ Exploring **Amazon Web Services (AWS)**
-- 💻 Passionate about Web Development and Cloud Technologies
-- 📚 Learning Linux, Networking, and DevOps fundamentals
-- 🚀 Building projects to improve my practical skills
-- 🎯 Aspiring Cloud & DevOps Engineer
-- ⚡ Always excited to learn new technologies
+* 🌱 Currently learning **Cloud Computing**
+* ☁️ Exploring **Amazon Web Services (AWS)**
+* 💻 Passionate about Web Development and Cloud Technologies
+* 📚 Learning Linux, Networking, and DevOps fundamentals
+* 🚀 Building projects to improve my practical skills
+* 🎯 Aspiring Cloud & DevOps Engineer
+* ⚡ Always excited to learn new technologies
 
 ---
 
 ## 🚀 Currently Learning
 
-- ☁️ AWS EC2
-- 🔐 AWS IAM
-- 🪣 Amazon S3
-- 🌐 AWS VPC
-- 🐧 Linux
-- 🌍 Computer Networking
-- 🔧 Git & GitHub
+* ☁️ AWS EC2
+* 🔐 AWS IAM
+* 🪣 Amazon S3
+* 🌐 AWS VPC
+* 🐧 Linux
+* 🌍 Computer Networking
+* 🔧 Git & GitHub
 
 ---
 
@@ -42,11 +42,11 @@
 
 ## 📂 Featured Projects
 
-- 📷 Photography Portfolio Website
-- 🌐 Studio Website
-- ☁️ AWS EC2 Practice Projects
-- 🎨 Responsive Web Design
-- 🚀 More Cloud Projects Coming Soon...
+* 📷 Photography Portfolio Website
+* 🌐 Studio Website
+* ☁️ AWS EC2 Practice Projects
+* 🎨 Responsive Web Design
+* 🚀 More Cloud Projects Coming Soon...
 
 ---
 
@@ -87,15 +87,21 @@
 
 <p align="left">
   <a href="https://github.com/DishaBhagat20" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
   </a>
-  <!-- Add your LinkedIn URL below -->
-  <!--
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+
+  <a href="https://www.linkedin.com/in/disha-bhagat-a6821334a/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
-  -->
+
+  <a href="mailto:dishabhagat.786@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  </a>
 </p>
+
+📧 **Email:** [dishabhagat.786@gmail.com](mailto:dishabhagat.786@gmail.com)
+
+💼 **LinkedIn:** [Disha Bhagat](https://www.linkedin.com/in/disha-bhagat-a6821334a/)
 
 ---
 
